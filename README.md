@@ -19,3 +19,7 @@
   [blog.adithyanak.com](https://blog.adithyanak.com/oscp-preparation-guide/buffer-overflows) - The python code used in the webinar can be found here.
   
   [Click here](https://www.youtube.com/watch?v=R9u1D3izvGs&ab_channel=WeArePlymouths) to watch the webinar on <b>Exploit Development - Stack Based Buffer Overflow</b>
+  
+- ### [OWASP Web & Mobile Application Security](/OWASP%20Web%20%26%20Mobile%20Application%20Security.pdf)
+
+  The session throws light on OWASP Top 10 Web Vulnerabilities, OWASP Top 10 Mobile Vulnerabilities, Attack vectors, Mitigations, Secure coding practices, Responsible disclosure programs. 
