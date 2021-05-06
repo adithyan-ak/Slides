@@ -6,13 +6,13 @@
   
   [Click here](https://www.youtube.com/watch?v=Wqkr5S1b9gA&ab_channel=AdithyanAK) to watch <b>The Ultimate OSCP Preparation Guide 2021</b>
 
-- ### [Open Source Intelligence](/Ultimate%20Guide%20to%20OSCP%202021%20-%20Adithyan%20AK.pdf)
+- ### [Open Source Intelligence](/OSINT%20OWASP.pdf)
 
   Open-source intelligence is a multi-factor methodology for collecting, analyzing and making decisions about data accessible in publicly available sources to be used in an         intelligence context. The session involves how one can leverage Open Source Intellgence for gathering information about a specific target and correlate the data collected.
   
   [Click here](https://www.youtube.com/watch?v=Wqkr5S1b9gA&ab_channel=AdithyanAK) to watch the webinar on <b>Open Source Intelligence by Adithyan AK</b>
   
-- ### [Exploit Development](/Ultimate%20Guide%20to%20OSCP%202021%20-%20Adithyan%20AK.pdf)
+- ### [Exploit Development](/Exploit%20Development%20Stack%20Bufferoverflow.pdf)
 
   The session revoles around what is stack and how it works, how and when a buffer overflow occurs, fuzzing an executable for buffer overflow, Finding the Offset, Overwriting the    EIP, Finding Bad Characters, Finding the JMP ESP address and finally Exploiting the System
   
