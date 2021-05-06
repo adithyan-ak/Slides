@@ -10,7 +10,7 @@
 
   Open-source intelligence is a multi-factor methodology for collecting, analyzing and making decisions about data accessible in publicly available sources to be used in an         intelligence context. The session involves how one can leverage Open Source Intellgence for gathering information about a specific target and correlate the data collected.
   
-  [Click here](https://www.youtube.com/watch?v=Wqkr5S1b9gA&ab_channel=AdithyanAK) to watch the webinar on <b>Open Source Intelligence by Adithyan AK</b>
+  [Click here](https://www.youtube.com/watch?v=jNU10hydtWY&ab_channel=OWASPTiruvallur) to watch the webinar on <b>Open Source Intelligence by Adithyan AK</b>
   
 - ### [Exploit Development](/Exploit%20Development%20Stack%20Bufferoverflow.pdf)
 
